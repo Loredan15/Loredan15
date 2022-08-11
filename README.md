@@ -8,6 +8,8 @@
        <img height=140 src="https://github-readme-stats.vercel.app/api?username=loredan15&show_icons=true&hide=stars,issues"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
        <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredan15&layout=compact"/></a>
+          <a href="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15">
+       <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15"/></a>
 </p>
 
 
