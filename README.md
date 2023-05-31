@@ -11,7 +11,8 @@
           <a href="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15">
        <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15"/></a>
 </p> -->
-
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15">
+       <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15"/></a>
 
 <!---
 Loredan15/Loredan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
