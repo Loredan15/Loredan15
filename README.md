@@ -3,14 +3,14 @@
 - 🌱 Примеры работ можете посмотреть ниже, хотя сейчас времени на пет-проекты крайне мало...
 - 📫 Всегда рад пообщаться по почте или в любом мессенджере !
 
-<p align='center'>
+<!-- <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=loredan15&show_icons=true&hide=stars,issues">
        <img height=140 src="https://github-readme-stats.vercel.app/api?username=loredan15&show_icons=true&hide=stars,issues"/></a>
    <a href="https://github.com/romankh3/github-readme-stats">
        <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredan15&layout=compact"/></a>
           <a href="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15">
        <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=Loredan15"/></a>
-</p>
+</p> -->
 
 
 <!---
